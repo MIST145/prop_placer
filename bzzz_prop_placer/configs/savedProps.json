@@ -1,0 +1,15 @@
+[
+	{
+		"propId": "burger stand on the square",
+		"netMissionEntity": false,
+		"propCoords": {
+			"x": 237.0596160888672,
+			"y": -886.0816040039063,
+			"z": 29.48128700256347
+		},
+		"propHeading": 9.99993896484375,
+		"doorFlag": false,
+		"propName": 1129053052,
+		"isNetwork": false
+	}
+]
